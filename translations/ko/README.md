@@ -7,7 +7,7 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "ko"
 }
 -->
-![초보자를 위한 생성형 AI](../../translated_images/repo-thumbnailv4-fixed.11f1ce6a85d01461c33c11943bb61f2b6d6dcce3a3b25cd27e627031f41f8e00.ko.png)
+![초보자를 위한 생성형 AI](../../images/repo-thumbnailv4-fixed.png)
 
 ### 생성형 AI 애플리케이션을 시작하는 데 필요한 모든 것을 가르치는 21개의 레슨
 
